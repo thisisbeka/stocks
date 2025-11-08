@@ -57,6 +57,4 @@ A clean and modular Streamlit dashboard for exploring Yahoo! Finance data, compu
 - Feel free to add additional indicators by extending `src/stocks_dashboard/analytics.py` and rendering the output in `app.py`.
 - To ensure reproducible test runs, keep any random number generation seeded (see `tests/test_portfolio.py`).
 
-## License
 
-This project is provided as-is for demonstration purposes. Adapt it freely to suit your needs.
