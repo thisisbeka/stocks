@@ -61,4 +61,4 @@ A clean and modular Streamlit dashboard for exploring Yahoo! Finance data, compu
 
 ## License
 
-This project is provided as-is for demonstration purposes. Adapt it freely to suit your needs.
+
